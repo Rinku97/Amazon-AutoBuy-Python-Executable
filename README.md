@@ -8,7 +8,7 @@ or in daily routine.
 
 """
 
-This is the readme file which tells about this scrip that how it's going to work
+This is the readme file which tells about this script that how it's going to work
 
 First, you must have the chrome browser installed as this script will only run on the chrome browser, so make sure it's installed
 
